@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* **Coding**
+  * _Python_
+  * _C++_
+  * _JavaScript_
+* **Playing**
+  * _Cricket_
+  * _Badminton_
